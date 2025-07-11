@@ -1,1 +1,4 @@
-<think>111111</think>
+<think>111111 \n  <button>23</button>
+
+
+</think>
